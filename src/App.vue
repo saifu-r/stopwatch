@@ -130,7 +130,7 @@ button {
   transition: all 0.2s ease-in-out 0ms;
   user-select: none;
   font-family: 'Poppins', sans-serif;
-  border: 5px;
+  border: 8px;
 }
 
 button:hover {
